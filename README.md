@@ -1,2 +1,2 @@
 # helloWorld
-My Entry Ito GitHub
+My Entry Into GitHub
